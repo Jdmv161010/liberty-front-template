@@ -1,0 +1,23 @@
+.footer {
+  width: 100%;
+  margin-bottom: 23px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  position: absolute;
+  bottom: 0;
+}
+
+.separator {
+  width: 80%;
+  border: 1px solid #e0e0e0;
+}
+
+.text {
+  color: #808080;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 17px;
+}
